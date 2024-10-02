@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **go and python**
 
-- 🤝 I’m looking for help with **go and get place in big tech**
+- 🤝 I’m looking for help with **go and get place in MAANG**
 
 - 👨‍💻 All of my projects are available at [https://elevenkamesh.github.io/terminal_portfolio-/](https://elevenkamesh.github.io/terminal_portfolio-/)
 

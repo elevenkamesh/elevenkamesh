@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elevenkamesh&label=Profile%20views&color=0e75b6&style=flat" alt="elevenkamesh" /> </p>
 
-- 🔭 I’m currently working on **learning go and Python**
+- 🔭 I’m currently  **learning go and Python**
 
 - 🌱 I’m currently learning **go and python**
 

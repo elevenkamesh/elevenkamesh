@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elevenkamesh&label=Profile%20views&color=0e75b6&style=flat" alt="elevenkamesh" /> </p>
 
-- 🔭 I’m currently  **learning go and Python**
+- 🔭 I’m currently  **learning go **
 
-- 🌱 I’m currently learning **go and python**
+- 🌱 I’m currently learning **go **
 
 - 🤝 I’m looking for help with **go and get place in MAANG**
 

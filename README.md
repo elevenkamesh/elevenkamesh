@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elevenkamesh&label=Profile%20views&color=0e75b6&style=flat" alt="elevenkamesh" /> </p>
 
-- 🔭 I’m currently  **learning go **
-
-- 🌱 I’m currently learning **go **
-
-- 🤝 I’m looking for help with **go and get place in MAANG**
+- 🔭 I’m currently  ** GENERTIVE AI **
 
 - 👨‍💻 All of my projects are available at [https://elevenkamesh.github.io/terminal_portfolio-/](https://elevenkamesh.github.io/terminal_portfolio-/)
 
@@ -24,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kameshoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kameshoff" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kameshwaran11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kameshwaran11/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kameshx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kameshwaran11/" height="30" width="40" /></a>
 <a href="https://medium.com/@kameshoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kameshoff" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@elevenxkamesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@elevenxkamesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/11kameshwaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="11kameshwaran" height="30" width="40" /></a>

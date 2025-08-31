@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elevenkamesh&label=Profile%20views&color=0e75b6&style=flat" alt="elevenkamesh" /> </p>
 
-- 🔭 I’m currently   GENERATIVE AI
+- 🔭 I’m currently Learning  GENERATIVE AI
 
 - 👨‍💻 All of my projects are available at [https://elevenkamesh.github.io/terminal_portfolio-/](https://elevenkamesh.github.io/terminal_portfolio-/)
 

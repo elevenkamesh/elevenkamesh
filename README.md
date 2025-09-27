@@ -12,7 +12,6 @@ working as Full Stack Developer ( backend Focused)  And AI <br>currently in to A
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elevenkamesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elevenkamesh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elevenkamesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elevenkamesh&icon=0&color=0)](https://visitcount.itsvg.in)

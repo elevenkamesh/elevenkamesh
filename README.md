@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kamesh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 # 💫 About Me:
-working as Full Stack Developer And AI <br>currently in to Ai and SystemDesign <br>
+working as Full Stack Developer ( backend Focused)  And AI <br>currently in to AI and SystemDesign <br>
 
 
 ## 🌐 Socials:
